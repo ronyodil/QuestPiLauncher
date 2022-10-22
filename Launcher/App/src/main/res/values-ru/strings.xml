@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">.. \u03C0 Launcher ..</string>
+    <string name="default_apps_group">Apps</string>
+    <string name="add_group">Добавить группу</string>
+    <string name="delete_group">Удалить группу</string>
+    <string name="edit_group">Редактировать группу</string>
+    <string name="app_details">Параметры приложения</string>
+    <string name="apps_hidden">Скрыто</string>
+
+    <string name="settings_apps_enable">Изменить</string>
+    <string name="settings_apps_disable">Закрепить панель</string>
+    <string name="settings_device">Настройки гарнитуры</string>
+    <string name="settings_look">Внешний вид</string>
+    <string name="settings_tweaks">Системные костыли</string>
+    <string name="background_opacity">Прозрачность фона</string>
+    <string name="icons_size">Размер иконок</string>
+    <string name="show_app_names">Показывать названия</string>
+    <string name="start_shortcut">Открывать ланчер со значка Ленты на дашборде. Для лучшей работы рекомендуется отключить приложение Лента (Explore).\n\nDOES NOT SUPPORT ALL HEADSET LANGUAGES. SET YOUR HEADSET LANGUAGE TO ENGLISH IF THIS FEATURE DOES NOT WORK PROPERLY.</string>
+
+    <string name="service_app_shortcut">Ссылка на приложение</string>
+    <string name="service_explore_app">Настройки прил. Лента</string>
+    <string name="service_multiwindow">Многооконность</string>
+    <string name="service_os_updater">Настройки прил. Oculus Updater</string>
+
+    <string name="service_enable">Включить</string>
+    <string name="service_disable">Отключить</string>
+    <string name="service_multiwindow_desc">2D приложения всегда открываются в центральном положении. С включенной мультиоконностью (multiwindow) в ланчере, запущенные приложения будут открываться в новом окне.Вы Хотите Включить или Выключить данный функционал?</string>
+
+    <string name="explore_accessibility_event_name">[Лента]</string>
+</resources>
